@@ -3,7 +3,7 @@
 
 ---
 
-## 🌐 Projects & Profiles
+## 🌐 Profiles
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sreeniiyer/)
 - 🐙 [GitHub](https://github.com/zeeiyerWork)
