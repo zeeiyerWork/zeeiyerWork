@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Sreeni Iyer  
+**GTM savvy Technologist • AI for Wildlife • Fractional CTO**
 
-<!--
-**zeeiyerWork/zeeiyerWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Projects & Profiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/sreeniiyer/)
+- 🐙 [GitHub](https://github.com/zeeiyerWork)
+- 🧠 [Fractal-IO.tech](https://fractal-io.tech)
+-    [Non Profit/Gaia-ai](https://gaia-ai.org)
+---
+
+## ✍️ Blog Posts
+
+- 📓 [MetaMumblings Blog](https://metamumblings.blogspot.com)
+- 📘 [JavaMuse Blog](https://javamuse.blogspot.com)
+- 🐾 [Gaia-AI Blog](https://gaia-ai.org/blog)
+
+---
+
+## 🧾 About
+Ex-CTO at several B2B Startups and Mid-sized companies.
+Founder of [Gaia-AI.org](https://gaia-ai.org), using machine learning for wildlife conservation.  
+Also consulting via [Fractal-IO.tech](https://fractal-io.tech) on AI, data engineering, and ML strategy.
