@@ -20,6 +20,6 @@
 ---
 
 ## 🧾 About
-Ex-CTO at several B2B Startups and Mid-sized companies.
-Founder of [Gaia-AI.org](https://gaia-ai.org), using machine learning for wildlife conservation.  
-Also consulting via [Fractal-IO.tech](https://fractal-io.tech) on AI, data engineering, and ML strategy.
+- Ex-CTO at several B2B Startups and Mid-sized companies.
+- Founder of [Gaia-AI.org](https://gaia-ai.org), using machine learning for wildlife conservation.  
+- Also consulting via [Fractal-IO.tech](https://fractal-io.tech) on Cloud/Data engineering and AI/ML strategy.
