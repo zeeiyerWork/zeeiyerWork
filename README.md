@@ -15,11 +15,11 @@
 
 - 📓 [MetaMumblings Blog](https://metamumblings.blogspot.com)
 - 📘 [JavaMuse Blog](https://javamuse.blogspot.com)
-- 🐾 [Gaia-AI Blog](https://gaia-ai.org/blog)
+- 🐾 [Gaia-AI Blog](https://gaia-ai.org/?blog=y)
 
 ---
 
 ## 🧾 About
-- Ex-CTO at several B2B Startups and Mid-sized companies.
+- Ex-CTO at several B2B "Big-data", SaaS Startups and Mid-sized companies. Ex-Manager (Platform) at Walmart.com
 - Founder of [Gaia-AI.org](https://gaia-ai.org), using machine learning for wildlife conservation.  
 - Also consulting via [Fractal-IO.tech](https://fractal-io.tech) on Cloud/Data engineering and AI/ML strategy.
